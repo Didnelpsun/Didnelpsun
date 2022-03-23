@@ -1,6 +1,6 @@
 # Didnelpsun仓库说明
 
-某不知名前端爱好者。全干工程师
+某不知名前端爱好者。全干工程师。
 
 一个年老失修的[个人博客](https://didnelpsun.github.io)。
 
